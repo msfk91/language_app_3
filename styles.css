@@ -1,0 +1,80 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .x {
+    display: inline-block;
+    margin: 15px;
+    height: 45px;
+    width: 250px;
+  }
+  
+  .i {
+    display: inline-block;
+    margin: 5px;
+    padding: 3px;
+  }
+  .i2 {
+    display: inline-block;
+    margin: 5px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  .i2:hover{
+    background-color: aquamarine;
+  }
+  .j {
+    display: inline-block;
+    
+  }
+  .nounDiv{
+    display: block;
+  }
+  .hide{
+    display: none;
+  }
+  .showDiv{
+    
+    margin-top: 7px;
+    display: inline-block;
+  }
+  .showDiv2{
+    display: inline-block;
+  }
+  .show2{
+    display: inline-block;
+    padding: 5px;
+  }
+  .show{
+    display: inline-block;
+    border: 1px solid black;
+    padding: 3px;
+    margin-left: 4px;
+  }
+  .show:hover{
+    background-color: aquamarine;
+  }  
+  .bigDiv {
+    border: 2px solid red;
+    margin-top: 4px;
+  }
+  .bigDiv2 {
+    border: 2px solid green;
+    margin-top: 4px;
+  }
+  .bigDiv3 {
+    border: 2px solid blue;
+    margin-top: 4px;
+  }
+  .lilDiv {
+    margin-bottom: 6px;
+  }
+  
+  h3 {
+    text-align: center;
+  }
+  .position {
+    float: left;
+  }
+  
