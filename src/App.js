@@ -1,9 +1,10 @@
-import logo from './logo.svg';
+import logo from './0logo.svg';
 import './App.css';
-
+import {NounCategory} from "./Components/NounCategory.js"
 function App() {
   return (
     <div className="App">
+      <NounCategory/>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
